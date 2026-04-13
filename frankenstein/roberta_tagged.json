@@ -1,0 +1,164 @@
+[
+    {
+        "sentence_index": 469,
+        "target_sentence": "By degrees, after the morning’s dawn, sleep came.",
+        "annotated_sentence": "By degrees, after the  <timex3 type=\"TIME\" value=\"1999-03-12T00:00\"> morning </timeX3> ’s dawn, sleep came. . . type.</timej\"> Friday </timesx 3> .",
+        "full_context": "My internal being was in a state of insurrection and turmoil; I felt that order would thence arise, but I had no power to produce it. By degrees, after the morning’s dawn, sleep came. I awoke, and my yesternight’s thoughts were as a dream.",
+        "clock_entities": [
+            {
+                "clock_time": "00:00",
+                "text": "morning"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1999-03-12T00:00",
+                "text": "morning"
+            }
+        ]
+    },
+    {
+        "sentence_index": 893,
+        "target_sentence": "A being whom I myself had formed, and endued with life, had met me at midnight among the precipices of an inaccessible mountain.",
+        "annotated_sentence": "A being whom I myself had formed, and endued with life, had met me at  <timex3 type=\"TIME\" value=\"1998-10-23T24:00\"> midnight </time x3>  among the precipices of an inaccessible mountain.",
+        "full_context": "But I paused when I reflected on the story that I had to tell. A being whom I myself had formed, and endued with life, had met me at midnight among the precipices of an inaccessible mountain. I remembered also the nervous fever with which I had been seized just at the time that I dated my creation, and which would give an air of delirium to a tale otherwise so utterly improbable.",
+        "clock_entities": [
+            {
+                "clock_time": "24:00",
+                "text": "midnight"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-10-23T24:00",
+                "text": "midnight"
+            }
+        ]
+    },
+    {
+        "sentence_index": 1217,
+        "target_sentence": "It was nearly noon when I arrived at the top of the ascent.",
+        "annotated_sentence": "It was nearly  <timex3 type=\"TIME\" value=\"2013-12-23T12:00\"> noon </time x3>  when I arrived at the top of the ascent. .</time X3T\"> midnight </ timex 3> .",
+        "full_context": "Man’s yesterday may ne’er be like his morrow;      Nought may endure but mutability! It was nearly noon when I arrived at the top of the ascent. For some time I sat upon the rock that overlooks the sea of ice.",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "noon"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-12-23T12:00",
+                "text": "noon"
+            }
+        ]
+    },
+    {
+        "sentence_index": 1367,
+        "target_sentence": "“It was noon when I awoke, and allured by the warmth of the sun, which shone brightly on the white ground, I determined to recommence my travels; and, depositing the remains of the peasant’s breakfast in a wallet I found, I proceeded across the fields for several hours, until at sunset I arrived at a village.",
+        "annotated_sentence": "“It was  <timex3 type=\"TIME\" value=\"1998-03-23T12:00\"> noon </time x3>  when I awoke, and allured by the warmth of the sun, which shone brightly on the white ground, I determined to recommence my travels; and, depositing the remains ofthe peasant’s breakfast in a wallet I found,I proceeded across the fields for  than  (<timeXX\"> several hours </ timex5> , until at   arrived at a village.",
+        "full_context": "Then, overcome by fatigue, I lay down among some straw and fell asleep. “It was noon when I awoke, and allured by the warmth of the sun, which shone brightly on the white ground, I determined to recommence my travels; and, depositing the remains of the peasant’s breakfast in a wallet I found, I proceeded across the fields for several hours, until at sunset I arrived at a village. How miraculous did this appear!",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "noon"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-03-23T12:00",
+                "text": "noon"
+            }
+        ]
+    },
+    {
+        "sentence_index": 1480,
+        "target_sentence": "“The old man, leaning on his son, walked each day at noon, when it did not rain, as I found it was called when the heavens poured forth its waters.",
+        "annotated_sentence": "“The old man, leaning on his son, walked  <timex3 quant=\"EACH\" type=\"SET\" value=\"P1DT12:00\"> each day </time x3>  at noon, when it did not rain, as I found it was called when the heavens poured forth its waters.",
+        "full_context": "Several new kinds of plants sprang up in the garden, which they dressed; and these signs of comfort increased daily as the season advanced. “The old man, leaning on his son, walked each day at noon, when it did not rain, as I found it was called when the heavens poured forth its waters. This frequently took place, but a high wind quickly dried the earth, and the season became far more pleasant than it had been.",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "each day"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "P1DT12:00",
+                "text": "each day"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2098,
+        "target_sentence": "Chapter 19   London was our present point of rest; we determined to remain several months in this wonderful and celebrated city.",
+        "annotated_sentence": "Chapter 19  <timex3 type=\"TIME\" value=\"2013-09-19T19:00\"> London </time x3>  was our present point of rest; we determined to remain several months in this wonderful and celebrated city.  .</timeq=\"",
+        "full_context": "At length we saw the numerous steeples of London, St. Paul’s towering above all, and the Tower famed in English history. Chapter 19   London was our present point of rest; we determined to remain several months in this wonderful and celebrated city. Clerval desired the intercourse of the men of genius and talent who flourished at this time, but this was with me a secondary object; I was principally occupied with the means of obtaining the information necessary for the completion of my promise and quickly availed myself of the letters of introduction that I had brought with me, addressed to the most distinguished natural philosophers.",
+        "clock_entities": [
+            {
+                "clock_time": "19:00",
+                "text": "London"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-09-19T19:00",
+                "text": "London"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2265,
+        "target_sentence": "When it became noon, and the sun rose higher, I lay down on the grass and was overpowered by a deep sleep.",
+        "annotated_sentence": "When it became  <timex3 type=\"TIME\" value=\"2013-12-23T12:00\"> noon </time x3> , and the sun rose higher, I lay down on the grass and was overpowered by a deep sleep. <timesx 3 type",
+        "full_context": "I walked about the isle like a restless spectre, separated from all it loved and miserable in the separation. When it became noon, and the sun rose higher, I lay down on the grass and was overpowered by a deep sleep. I had been awake the whole of the preceding night, my nerves were agitated, and my eyes inflamed by watching and misery.",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "noon"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-12-23T12:00",
+                "text": "noon"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2441,
+        "target_sentence": "It was midnight.",
+        "annotated_sentence": "It was  <timex3 type=\"TIME\" value=\"1998-11-23T00:00\"> midnight </timerax </ timex 3> .   was midnight.  midnight . <TIME,\" value \"1999-12-24T24:30\"> noon </TIME \".",
+        "full_context": "We took our passage on board a vessel bound for Havre-de-Grace and sailed with a fair wind from the Irish shores. It was midnight. I lay on the deck looking at the stars and listening to the dashing of the waves.",
+        "clock_entities": [
+            {
+                "clock_time": "00:00",
+                "text": "midnight"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-11-23T00:00",
+                "text": "midnight"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2964,
+        "target_sentence": "It is midnight; the breeze blows fairly, and the watch on deck scarcely stir.",
+        "annotated_sentence": "It is  <timex3 type=\"TIME\" value=\"2000-03-23T00:00\"> midnight </time x3> ; the breeze blows fairly, and the watch on deck scarcely stir. . < timeXX\"> stir.</timeXX- stir</timeq=\"TNI\"> hardly stir .",
+        "full_context": "What do these sounds portend? It is midnight; the breeze blows fairly, and the watch on deck scarcely stir. Again there is a sound as of a human voice, but hoarser; it comes from the cabin where the remains of Frankenstein still lie.",
+        "clock_entities": [
+            {
+                "clock_time": "00:00",
+                "text": "midnight"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2000-03-23T00:00",
+                "text": "midnight"
+            }
+        ]
+    }
+]

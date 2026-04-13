@@ -1,0 +1,448 @@
+[
+    {
+        "sentence_index": 154,
+        "target_sentence": "I replied that I could not answer with any degree of certainty, for the ice had not broken until near midnight, and the traveller might have arrived at a place of safety before that time; but of this I could not judge.",
+        "full_context": "Soon after, when he was alone with me, he said, “I have, doubtless, excited your curiosity, as well as that of these good people; but you are too considerate to make inquiries.”  “Certainly; it would indeed be very impertinent and inhuman in me to trouble you with any inquisitiveness of mine.”  “And yet you rescued me from a strange and perilous situation; you have benevolently restored me to life.”  Soon after this he inquired if I thought that the breaking up of the ice had destroyed the other sledge. I replied that I could not answer with any degree of certainty, for the ice had not broken until near midnight, and the traveller might have arrived at a place of safety before that time; but of this I could not judge. From this time a new spirit of life animated the decaying frame of the stranger.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9585
+            },
+            {
+                "type": "DATE",
+                "text": "that",
+                "score": 0.5752
+            }
+        ]
+    },
+    {
+        "sentence_index": 155,
+        "target_sentence": "near midnight, and the traveller might have arrived at a place of safety before that time; but of this I could not judge.",
+        "full_context": "I replied that I could not answer with any degree of certainty, for the ice had not broken until near midnight, and the traveller might have arrived at a place of safety before that time; but of this I could not judge. From this time a new spirit of life animated the decaying frame of the stranger. He manifested the greatest eagerness to be upon deck to watch for the sledge which had before appeared; but I have persuaded him to remain in the cabin, for he is far too weak to sustain the rawness of the atmosphere.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "this time",
+                "score": 0.9978
+            }
+        ]
+    },
+    {
+        "sentence_index": 572,
+        "target_sentence": "It was already one in the morning; the rain pattered dismally against the panes, and my candle was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs.",
+        "full_context": "With an anxiety that almost amounted to agony, I collected the instruments of life around me, that I might infuse a spark of being into the lifeless thing that lay at my feet. It was already one in the morning; the rain pattered dismally against the panes, and my candle was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs. How can I describe my emotions at this catastrophe, or how delineate the wretch whom with such infinite pains and care I had endeavoured to form?",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the morning",
+                "score": 0.996
+            }
+        ]
+    },
+    {
+        "sentence_index": 598,
+        "target_sentence": "Morning, dismal and wet, at length dawned and discovered to my sleepless and aching eyes the church of Ingolstadt, its white steeple and clock, which indicated the sixth hour.",
+        "full_context": "Sometimes my pulse beat so quickly and hardly that I felt the palpitation of every artery; at others, I nearly sank to the ground through languor and extreme weakness. Mingled with this horror, I felt the bitterness of disappointment; dreams that had been my food and pleasant rest for so long a space were now become a hell to me; and the change was so rapid, the overthrow so complete! Morning, dismal and wet, at length dawned and discovered to my sleepless and aching eyes the church of Ingolstadt, its white steeple and clock, which indicated the sixth hour.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9968
+            }
+        ]
+    },
+    {
+        "sentence_index": 599,
+        "target_sentence": "Morning, dismal and wet, at length dawned and discovered to my sleepless and aching eyes the church of Ingolstadt, its white steeple and clock, which indicated the sixth hour.",
+        "full_context": "Mingled with this horror, I felt the bitterness of disappointment; dreams that had been my food and pleasant rest for so long a space were now become a hell to me; and the change was so rapid, the overthrow so complete! Morning, dismal and wet, at length dawned and discovered to my sleepless and aching eyes the church of Ingolstadt, its white steeple and clock, which indicated the sixth hour. The porter opened the gates of the court, which had that night been my asylum, and I issued into the streets, pacing them with quick steps, as if I sought to avoid the wretch whom I feared every turning of the street would present to my view.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "morning",
+                "score": 0.9943
+            },
+            {
+                "type": "TIME",
+                "text": "the sixth hour",
+                "score": 0.7327
+            }
+        ]
+    },
+    {
+        "sentence_index": 600,
+        "target_sentence": "Morning, dismal and wet, at length dawned and discovered to my sleepless and aching eyes the church of Ingolstadt, its white steeple and clock, which indicated the sixth hour.",
+        "full_context": "Morning, dismal and wet, at length dawned and discovered to my sleepless and aching eyes the church of Ingolstadt, its white steeple and clock, which indicated the sixth hour. The porter opened the gates of the court, which had that night been my asylum, and I issued into the streets, pacing them with quick steps, as if I sought to avoid the wretch whom I feared every turning of the street would present to my view. I did not dare return to the apartment which I inhabited, but felt impelled to hurry on, although drenched by the rain which poured from a black and comfortless sky.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "that night",
+                "score": 0.9933
+            }
+        ]
+    },
+    {
+        "sentence_index": 794,
+        "target_sentence": "About five in the morning I discovered my lovely boy, whom the night before I had seen blooming and active in health, stretched on the grass livid and motionless; the print of the murder’s finger was on his neck.",
+        "full_context": "He was not there. We returned again, with torches; for I could not rest, when I thought that my sweet boy had lost himself, and was exposed to all the damps and dews of night; Elizabeth also suffered extreme anguish. About five in the morning I discovered my lovely boy, whom the night before I had seen blooming and active in health, stretched on the grass livid and motionless; the print of the murder’s finger was on his neck.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.9866
+            }
+        ]
+    },
+    {
+        "sentence_index": 795,
+        "target_sentence": "About five in the morning I discovered my lovely boy, whom the night before I had seen blooming and active in health, stretched on the grass livid and motionless; the print of the murder’s finger was on his neck.",
+        "full_context": "We returned again, with torches; for I could not rest, when I thought that my sweet boy had lost himself, and was exposed to all the damps and dews of night; Elizabeth also suffered extreme anguish. About five in the morning I discovered my lovely boy, whom the night before I had seen blooming and active in health, stretched on the grass livid and motionless; the print of the murder’s finger was on his neck. “He was conveyed home, and the anguish that was visible in my countenance betrayed the secret to Elizabeth.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the morning",
+                "score": 0.9918
+            },
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.817
+            }
+        ]
+    },
+    {
+        "sentence_index": 893,
+        "target_sentence": "A being whom I myself had formed, and endued with life, had met me at midnight among the precipices of an inaccessible mountain.",
+        "full_context": "But I paused when I reflected on the story that I had to tell. A being whom I myself had formed, and endued with life, had met me at midnight among the precipices of an inaccessible mountain. I remembered also the nervous fever with which I had been seized just at the time that I dated my creation, and which would give an air of delirium to a tale otherwise so utterly improbable.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9935
+            }
+        ]
+    },
+    {
+        "sentence_index": 900,
+        "target_sentence": "It was about five in the morning when I entered my father’s house.",
+        "full_context": "These reflections determined me, and I resolved to remain silent. It was about five in the morning when I entered my father’s house. I told the servants not to disturb the family, and went into the library to attend their usual hour of rising.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the morning",
+                "score": 0.6387
+            }
+        ]
+    },
+    {
+        "sentence_index": 954,
+        "target_sentence": "We passed a few sad hours until eleven o’clock, when the trial was to commence.",
+        "full_context": "“Dearest niece,” said my father, “dry your tears. If she is, as you believe, innocent, rely on the justice of our laws, and the activity with which I shall prevent the slightest shadow of partiality.”     Chapter 8   We passed a few sad hours until eleven o’clock, when the trial was to commence. My father and the rest of the family being obliged to attend as witnesses, I accompanied them to the court.",
+        "timex3_entities": [
+            {
+                "type": "DURATION",
+                "text": "hours",
+                "score": 0.9199
+            }
+        ]
+    },
+    {
+        "sentence_index": 970,
+        "target_sentence": "She returned to the house about eight o’clock, and when one inquired where she had passed the night, she replied that she had been looking for the child and demanded earnestly if anything had been heard concerning him.",
+        "full_context": "The woman asked her what she did there, but she looked very strangely and only returned a confused and unintelligible answer. She returned to the house about eight o’clock, and when one inquired where she had passed the night, she replied that she had been looking for the child and demanded earnestly if anything had been heard concerning him. When shown the body, she fell into violent hysterics and kept her bed for several days.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.7055
+            }
+        ]
+    },
+    {
+        "sentence_index": 971,
+        "target_sentence": "She returned to the house about eight o’clock, and when one inquired where she had passed the night, she replied that she had been looking for the child and demanded earnestly if anything had been heard concerning him.",
+        "full_context": "She returned to the house about eight o’clock, and when one inquired where she had passed the night, she replied that she had been looking for the child and demanded earnestly if anything had been heard concerning him. When shown the body, she fell into violent hysterics and kept her bed for several days. The picture was then produced which the servant had found in her pocket; and when Elizabeth, in a faltering voice, proved that it was the same which, an hour before the child had been missed, she had placed round his neck, a murmur of horror and indignation filled the court.",
+        "timex3_entities": [
+            {
+                "type": "DURATION",
+                "text": "several days",
+                "score": 0.8611
+            }
+        ]
+    },
+    {
+        "sentence_index": 978,
+        "target_sentence": "On her return, at about nine o’clock, she met a man who asked her if she had seen anything of the child who was lost.",
+        "full_context": "“God knows,” she said, “how entirely I am innocent. But I do not pretend that my protestations should acquit me; I rest my innocence on a plain and simple explanation of the facts which have been adduced against me, and I hope the character I have always borne will incline my judges to a favourable interpretation where any circumstance appears doubtful or suspicious.”  She then related that, by the permission of Elizabeth, she had passed the evening of the night on which the murder had been committed at the house of an aunt at Chêne, a village situated at about a league from Geneva. On her return, at about nine o’clock, she met a man who asked her if she had seen anything of the child who was lost.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the evening of the night",
+                "score": 0.8709
+            }
+        ]
+    },
+    {
+        "sentence_index": 980,
+        "target_sentence": "On her return, at about nine o’clock, she met a man who asked her if she had seen anything of the child who was lost.",
+        "full_context": "On her return, at about nine o’clock, she met a man who asked her if she had seen anything of the child who was lost. She was alarmed by this account and passed several hours in looking for him, when the gates of Geneva were shut, and she was forced to remain several hours of the night in a barn belonging to a cottage, being unwilling to call up the inhabitants, to whom she was well known. Most of the night she spent here watching; towards morning she believed that she slept for a few minutes; some steps disturbed her, and she awoke.",
+        "timex3_entities": [
+            {
+                "type": "DURATION",
+                "text": "several hours",
+                "score": 0.9995
+            },
+            {
+                "type": "DURATION",
+                "text": "several hours of",
+                "score": 0.9172
+            },
+            {
+                "type": "TIME",
+                "text": "the",
+                "score": 0.6388
+            },
+            {
+                "type": "DURATION",
+                "text": "night",
+                "score": 0.9154
+            }
+        ]
+    },
+    {
+        "sentence_index": 1109,
+        "target_sentence": "The shutting of the gates regularly at ten o’clock and the impossibility of remaining on the lake after that hour had rendered our residence within the walls of Geneva very irksome to me.",
+        "full_context": "This change was particularly agreeable to me. The shutting of the gates regularly at ten o’clock and the impossibility of remaining on the lake after that hour had rendered our residence within the walls of Geneva very irksome to me. I was now free.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "that",
+                "score": 0.633
+            },
+            {
+                "type": "DURATION",
+                "text": "hour",
+                "score": 0.9851
+            }
+        ]
+    },
+    {
+        "sentence_index": 1110,
+        "target_sentence": "The shutting of the gates regularly at ten o’clock and the impossibility of remaining on the lake after that hour had rendered our residence within the walls of Geneva very irksome to me.",
+        "full_context": "The shutting of the gates regularly at ten o’clock and the impossibility of remaining on the lake after that hour had rendered our residence within the walls of Geneva very irksome to me. I was now free. Often, after the rest of the family had retired for the night, I took the boat and passed many hours upon the water.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9965
+            }
+        ]
+    },
+    {
+        "sentence_index": 1216,
+        "target_sentence": "It was nearly noon when I arrived at the top of the ascent.",
+        "full_context": "We feel, conceive, or reason; laugh or weep,      Embrace fond woe, or cast our cares away;   It is the same: for, be it joy or sorrow,      The path of its departure still is free. Man’s yesterday may ne’er be like his morrow;      Nought may endure but mutability! It was nearly noon when I arrived at the top of the ascent.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "yesterday",
+                "score": 0.9922
+            }
+        ]
+    },
+    {
+        "sentence_index": 1217,
+        "target_sentence": "It was nearly noon when I arrived at the top of the ascent.",
+        "full_context": "Man’s yesterday may ne’er be like his morrow;      Nought may endure but mutability! It was nearly noon when I arrived at the top of the ascent. For some time I sat upon the rock that overlooks the sea of ice.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.999
+            }
+        ]
+    },
+    {
+        "sentence_index": 1218,
+        "target_sentence": "It was nearly noon when I arrived at the top of the ascent.",
+        "full_context": "It was nearly noon when I arrived at the top of the ascent. For some time I sat upon the rock that overlooks the sea of ice. A mist covered both that and the surrounding mountains.",
+        "timex3_entities": [
+            {
+                "type": "DURATION",
+                "text": "some time",
+                "score": 0.9937
+            }
+        ]
+    },
+    {
+        "sentence_index": 1357,
+        "target_sentence": "“It was about seven in the morning, and I longed to obtain food and shelter; at length I perceived a small hut, on a rising ground, which had doubtless been built for the convenience of some shepherd.",
+        "full_context": "I passed three days in these rambles and at length discovered the open country. A great fall of snow had taken place the night before, and the fields were of one uniform white; the appearance was disconsolate, and I found my feet chilled by the cold damp substance that covered the ground. “It was about seven in the morning, and I longed to obtain food and shelter; at length I perceived a small hut, on a rising ground, which had doubtless been built for the convenience of some shepherd.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the night",
+                "score": 0.8427
+            }
+        ]
+    },
+    {
+        "sentence_index": 1358,
+        "target_sentence": "“It was about seven in the morning, and I longed to obtain food and shelter; at length I perceived a small hut, on a rising ground, which had doubtless been built for the convenience of some shepherd.",
+        "full_context": "A great fall of snow had taken place the night before, and the fields were of one uniform white; the appearance was disconsolate, and I found my feet chilled by the cold damp substance that covered the ground. “It was about seven in the morning, and I longed to obtain food and shelter; at length I perceived a small hut, on a rising ground, which had doubtless been built for the convenience of some shepherd. This was a new sight to me, and I examined the structure with great curiosity.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the morning",
+                "score": 0.9857
+            }
+        ]
+    },
+    {
+        "sentence_index": 1367,
+        "target_sentence": "It was noon when I awoke, and allured by the warmth of the sun, which shone brightly on the white ground, I determined to recommence my travels; and, depositing the remains of the peasant’s breakfast in a wallet I found, I proceeded across the fields for several hours, until at sunset I arrived at a village.",
+        "full_context": "Then, overcome by fatigue, I lay down among some straw and fell asleep. “It was noon when I awoke, and allured by the warmth of the sun, which shone brightly on the white ground, I determined to recommence my travels; and, depositing the remains of the peasant’s breakfast in a wallet I found, I proceeded across the fields for several hours, until at sunset I arrived at a village. How miraculous did this appear!",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.9963
+            },
+            {
+                "type": "DURATION",
+                "text": "several hours",
+                "score": 0.9982
+            },
+            {
+                "type": "TIME",
+                "text": "sunset",
+                "score": 0.9187
+            }
+        ]
+    },
+    {
+        "sentence_index": 1368,
+        "target_sentence": "“It was noon when I awoke, and allured by the warmth of the sun, which shone brightly on the white ground, I determined to recommence my travels; and, depositing the remains of the peasant’s breakfast in a wallet I found, I proceeded across the fields for several hours, until at sunset I arrived at a village.",
+        "full_context": "“It was noon when I awoke, and allured by the warmth of the sun, which shone brightly on the white ground, I determined to recommence my travels; and, depositing the remains of the peasant’s breakfast in a wallet I found, I proceeded across the fields for several hours, until at sunset I arrived at a village. How miraculous did this appear! The huts, the neater cottages, and stately houses engaged my admiration by turns.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "this appear",
+                "score": 0.636
+            }
+        ]
+    },
+    {
+        "sentence_index": 1731,
+        "target_sentence": "“One day, when the sun shone on the red leaves that strewed the ground and diffused cheerfulness, although it denied warmth, Safie, Agatha, and Felix departed on a long country walk, and the old man, at his own desire, was left alone in the cottage. When his children had departed, he took up his guitar and played several mournful but sweet airs, more sweet and mournful than I had ever heard him play before.",
+        "full_context": "My voice, although harsh, had nothing terrible in it; I thought, therefore, that if in the absence of his children I could gain the good will and mediation of the old De Lacey, I might by his means be tolerated by my younger protectors. “One day, when the sun shone on the red leaves that strewed the ground and diffused cheerfulness, although it denied warmth, Safie, Agatha, and Felix departed on a long country walk, and the old man, at his own desire, was left alone in the cottage. When his children had departed, he took up his guitar and played several mournful but sweet airs, more sweet and mournful than I had ever heard him play before.",
+        "timex3_entities": [
+            {
+                "type": "DURATION",
+                "text": "one day",
+                "score": 0.9989
+            }
+        ]
+    },
+    {
+        "sentence_index": 2265,
+        "target_sentence": "When it became noon, and the sun rose higher, I lay down on the grass and was overpowered by a deep sleep.",
+        "full_context": "I walked about the isle like a restless spectre, separated from all it loved and miserable in the separation. When it became noon, and the sun rose higher, I lay down on the grass and was overpowered by a deep sleep. I had been awake the whole of the preceding night, my nerves were agitated, and my eyes inflamed by watching and misery.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.993
+            }
+        ]
+    },
+    {
+        "sentence_index": 2266,
+        "target_sentence": "When it became noon, and the sun rose higher, I lay down on the grass and was overpowered by a deep sleep.",
+        "full_context": "When it became noon, and the sun rose higher, I lay down on the grass and was overpowered by a deep sleep. I had been awake the whole of the preceding night, my nerves were agitated, and my eyes inflamed by watching and misery. The sleep into which I now sank refreshed me; and when I awoke, I again felt as if I belonged to a race of human beings like myself, and I began to reflect upon what had passed with greater composure; yet still the words of the fiend rang in my ears like a death-knell; they appeared like a dream, yet distinct and oppressive as a reality.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.9979
+            }
+        ]
+    },
+    {
+        "sentence_index": 2282,
+        "target_sentence": "Between two and three in the morning the moon rose; and I then, putting my basket aboard a little skiff, sailed out about four miles from the shore.",
+        "full_context": "I had resolved in my own mind that to create another like the fiend I had first made would be an act of the basest and most atrocious selfishness, and I banished from my mind every thought that could lead to a different conclusion. Between two and three in the morning the moon rose; and I then, putting my basket aboard a little skiff, sailed out about four miles from the shore. The scene was perfectly solitary; a few boats were returning towards land, but I sailed away from them.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the morning",
+                "score": 0.9956
+            }
+        ]
+    },
+    {
+        "sentence_index": 2331,
+        "target_sentence": "he deposed that he had been out fishing the night before with his son and brother-in-law, Daniel Nugent, when, about ten o’clock, they observed a strong northerly blast rising, and they accordingly put in for port.",
+        "full_context": "He looked upon me, however, with some degree of severity, and then, turning towards my conductors, he asked who appeared as witnesses on this occasion. About half a dozen men came forward; and, one being selected by the magistrate, he deposed that he had been out fishing the night before with his son and brother-in-law, Daniel Nugent, when, about ten o’clock, they observed a strong northerly blast rising, and they accordingly put in for port. It was a very dark night, as the moon had not yet risen; they did not land at the harbour, but, as they had been accustomed, at a creek about two miles below.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the",
+                "score": 0.7213
+            },
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.6436
+            }
+        ]
+    },
+    {
+        "sentence_index": 2332,
+        "target_sentence": "About half a dozen men came forward; and, one being selected by the magistrate, he deposed that he had been out fishing the night before with his son and brother-in-law, Daniel Nugent, when, about ten o’clock, they observed a strong northerly blast rising, and they accordingly put in for port.",
+        "full_context": "About half a dozen men came forward; and, one being selected by the magistrate, he deposed that he had been out fishing the night before with his son and brother-in-law, Daniel Nugent, when, about ten o’clock, they observed a strong northerly blast rising, and they accordingly put in for port. It was a very dark night, as the moon had not yet risen; they did not land at the harbour, but, as they had been accustomed, at a creek about two miles below. He walked on first, carrying a part of the fishing tackle, and his companions followed him at some distance.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.9924
+            }
+        ]
+    },
+    {
+        "sentence_index": 2441,
+        "target_sentence": "It was midnight.",
+        "full_context": "We took our passage on board a vessel bound for Havre-de-Grace and sailed with a fair wind from the Irish shores. It was midnight. I lay on the deck looking at the stars and listening to the dashing of the waves.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9949
+            }
+        ]
+    },
+    {
+        "sentence_index": 2594,
+        "target_sentence": "It was eight o’clock when we landed; we walked for a short time on the shore, enjoying the transitory light, and then retired to the inn and contemplated the lovely scene of waters, woods, and mountains, obscured in darkness, yet still displaying their black outlines.",
+        "full_context": "Chapter 23   It was eight o’clock when we landed; we walked for a short time on the shore, enjoying the transitory light, and then retired to the inn and contemplated the lovely scene of waters, woods, and mountains, obscured in darkness, yet still displaying their black outlines. The wind, which had fallen in the south, now rose with great violence in the west. The moon had reached her summit in the heavens and was beginning to descend; the clouds swept across it swifter than the flight of the vulture and dimmed her rays, while the lake reflected the scene of the busy heavens, rendered still busier by the restless waves that were beginning to rise.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9982
+            }
+        ]
+    },
+    {
+        "sentence_index": 2964,
+        "target_sentence": "It is midnight; the breeze blows fairly, and the watch on deck scarcely stir.",
+        "full_context": "What do these sounds portend? It is midnight; the breeze blows fairly, and the watch on deck scarcely stir. Again there is a sound as of a human voice, but hoarser; it comes from the cabin where the remains of Frankenstein still lie.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9982
+            }
+        ]
+    }
+]

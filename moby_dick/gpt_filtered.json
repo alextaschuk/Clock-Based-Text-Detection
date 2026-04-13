@@ -1,0 +1,774 @@
+[
+    {
+        "sentence_index": 230,
+        "target_sentence": "It was now about nine o’clock, and the room seeming almost supernaturally quiet after these orgies, I began to congratulate myself upon a little plan that had occurred to me just previous to the entrance of the seamen.",
+        "full_context": "where’s Bulkington?” and darted out of the house in pursuit of him. It was now about nine o’clock, and the room seeming almost supernaturally quiet after these orgies, I began to congratulate myself upon a little plan that had occurred to me just previous to the entrance of the seamen. No man prefers to sleep two in a bed.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9926
+            }
+        ]
+    },
+    {
+        "sentence_index": 241,
+        "target_sentence": "Besides, it was getting late, and my decent harpooneer ought to be home and going bedwards. Suppose now, he should tumble in upon me at midnight—how could I tell from what vile hole he had been coming?",
+        "full_context": "Besides, it was getting late, and my decent harpooneer ought to be home and going bedwards. Suppose now, he should tumble in upon me at midnight—how could I tell from what vile hole he had been coming? “Landlord!",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.998
+            },
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.997
+            }
+        ]
+    },
+    {
+        "sentence_index": 260,
+        "target_sentence": "It was now hard upon twelve o’clock.",
+        "full_context": "But though the other boarders kept coming in by ones, twos, and threes, and going to bed, yet no sign of my harpooneer. “Landlord!” said I, “what sort of a chap is he—does he always keep such late hours?” It was now hard upon twelve o’clock. The landlord chuckled again with his lean chuckle, and seemed to be mightily tickled at something beyond my comprehension.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "late hours",
+                "score": 0.6854
+            },
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9956
+            }
+        ]
+    },
+    {
+        "sentence_index": 283,
+        "target_sentence": "when looking at a clock in the corner, he exclaimed “I vum it’s Sunday—you won’t see that harpooneer to-night; he’s come to anchor somewhere—come along then; _do_ come; _won’t_ ye come?”",
+        "full_context": "Come along here, I’ll give ye a glim in a jiffy;” and so saying he lighted a candle and held it towards me, offering to lead the way. But I stood irresolute; when looking at a clock in the corner, he exclaimed “I vum it’s Sunday—you won’t see that harpooneer to-night; he’s come to anchor somewhere—come along then; _do_ come; _won’t_ ye come?”  I considered the matter a moment, and then up stairs we went, and I was ushered into a small room, cold as a clam, and furnished, sure enough, with a prodigious bed, almost big enough indeed for any four harpooneers to sleep abreast. “There,” said the landlord, placing the candle on a crazy old sea chest that did double duty as a wash-stand and centre table; “there, make yourself comfortable now, and good night to ye.” I turned round from eyeing the bed, but he had disappeared.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "sunday",
+                "score": 0.9995
+            },
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.9527
+            }
+        ]
+    },
+    {
+        "sentence_index": 284,
+        "target_sentence": "when looking at a clock in the corner, he exclaimed “I vum it’s Sunday—you won’t see that harpooneer to-night; he’s come to anchor somewhere—come along then; _do_ come; _won’t_ ye come?”",
+        "full_context": "But I stood irresolute; when looking at a clock in the corner, he exclaimed “I vum it’s Sunday—you won’t see that harpooneer to-night; he’s come to anchor somewhere—come along then; _do_ come; _won’t_ ye come?”  I considered the matter a moment, and then up stairs we went, and I was ushered into a small room, cold as a clam, and furnished, sure enough, with a prodigious bed, almost big enough indeed for any four harpooneers to sleep abreast. “There,” said the landlord, placing the candle on a crazy old sea chest that did double duty as a wash-stand and centre table; “there, make yourself comfortable now, and good night to ye.” I turned round from eyeing the bed, but he had disappeared. Folding back the counterpane, I stooped over the bed.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9992
+            },
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.8139
+            }
+        ]
+    },
+    {
+        "sentence_index": 390,
+        "target_sentence": "though it was only two o’clock in the afternoon of the 21st June, the longest day in the year in our hemisphere.",
+        "full_context": "The circumstance was this. I had been cutting up some caper or other—I think it was trying to crawl up the chimney, as I had seen a little sweep do a few days previous; and my stepmother who, somehow or other, was all the time whipping me, or sending me to bed supperless,—my mother dragged me by the legs out of the chimney and packed me off to bed, though it was only two o’clock in the afternoon of the 21st June, the longest day in the year in our hemisphere. I felt dreadfully.",
+        "timex3_entities": [
+            {
+                "type": "DURATION",
+                "text": "a",
+                "score": 0.5394
+            },
+            {
+                "type": "DATE",
+                "text": "few days previous",
+                "score": 0.9256
+            },
+            {
+                "type": "TIME",
+                "text": "of the",
+                "score": 0.6768
+            },
+            {
+                "type": "TIME",
+                "text": "the afternoon of the 21st june",
+                "score": 0.9454
+            },
+            {
+                "type": "TIME",
+                "text": "the longest day",
+                "score": 0.7527
+            },
+            {
+                "type": "TIME",
+                "text": "the year",
+                "score": 0.7948
+            }
+        ]
+    },
+    {
+        "sentence_index": 799,
+        "target_sentence": "Upon opening my eyes then, and coming out of my own pleasant and self-created darkness into the imposed and coarse outer gloom of the unilluminated twelve-o’clock-at-night, I experienced a disagreeable revulsion.",
+        "full_context": "Because no man can ever feel his own identity aright except his eyes be closed; as if darkness were indeed the proper element of our essences, though light be more congenial to our clayey part. Upon opening my eyes then, and coming out of my own pleasant and self-created darkness into the imposed and coarse outer gloom of the unilluminated twelve-o’clock-at-night, I experienced a disagreeable revulsion. Nor did I at all object to the hint from Queequeg that perhaps it were best to strike a light, seeing that we were so wide awake; and besides he felt a strong desire to have a few quiet puffs from his Tomahawk.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.7652
+            }
+        ]
+    },
+    {
+        "sentence_index": 1000,
+        "target_sentence": "And half concealed in this queer tenement, I at length found one who by his aspect seemed to have authority; and who, it being noon, and the ship’s work suspended, was now enjoying respite from the burden of command.",
+        "full_context": "A triangular opening faced towards the bows of the ship, so that the insider commanded a complete view forward. And half concealed in this queer tenement, I at length found one who by his aspect seemed to have authority; and who, it being noon, and the ship’s work suspended, was now enjoying respite from the burden of command. He was seated on an old-fashioned oaken chair, wriggling all over with curious carving; and the bottom of which was formed of a stout interlacing of the same elastic stuff of which the wigwam was constructed.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.9559
+            },
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.7622
+            }
+        ]
+    },
+    {
+        "sentence_index": 1229,
+        "target_sentence": "After sitting a long time listening to the long stories of some sailors who had just come from a plum-pudding voyage, as they called it (that is, a short whaling-voyage in a schooner or brig, confined to the north of the line, in the Atlantic Ocean only); after listening to these plum-puddingers till nearly eleven o’clock, I went up stairs to go to bed, feeling quite sure by this time Queequeg must certainly have brought his Ramadan to a termination.",
+        "full_context": "I went down to supper. After sitting a long time listening to the long stories of some sailors who had just come from a plum-pudding voyage, as they called it (that is, a short whaling-voyage in a schooner or brig, confined to the north of the line, in the Atlantic Ocean only); after listening to these plum-puddingers till nearly eleven o’clock, I went up stairs to go to bed, feeling quite sure by this time Queequeg must certainly have brought his Ramadan to a termination. But no; there he was just where I had left him; he had not stirred an inch.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "this time",
+                "score": 0.9942
+            }
+        ]
+    },
+    {
+        "sentence_index": 1251,
+        "target_sentence": "by about two o’clock in the afternoon, and all cooked and eaten that very evening.",
+        "full_context": "He said no; only upon one memorable occasion. It was after a great feast given by his father the king, on the gaining of a great battle wherein fifty of the enemy had been killed by about two o’clock in the afternoon, and all cooked and eaten that very evening. “No more, Queequeg,” said I, shuddering; “that will do;” for I knew the inferences without his further hinting them.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the afternoon",
+                "score": 0.9801
+            },
+            {
+                "type": "TIME",
+                "text": "evening",
+                "score": 0.9942
+            }
+        ]
+    },
+    {
+        "sentence_index": 1389,
+        "target_sentence": "It was nearly six o’clock, but only grey imperfect misty dawn, when we drew nigh the wharf.",
+        "full_context": "At last it was given out that some time next day the ship would certainly sail. So next morning, Queequeg and I took a very early start. It was nearly six o’clock, but only grey imperfect misty dawn, when we drew nigh the wharf.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "next morning",
+                "score": 0.9935
+            }
+        ]
+    },
+    {
+        "sentence_index": 1443,
+        "target_sentence": "At length, towards noon, upon the final dismissal of the ship’s riggers, and after the Pequod had been hauled out from the wharf, and after the ever-thoughtful Charity had come off in a whale-boat, with her last gift—a night-cap for Stubb, the second mate, her brother-in-law, and a spare Bible for the steward—after all this, the two Captains, Peleg and Bildad, issued from the cabin, and turning to the chief mate, Peleg said:  “Now, Mr. Starbuck, are you sure everything is right? Captain Ahab is all ready—just spoke to him—nothing more to be got from shore, eh?",
+        "full_context": "Meanwhile Captain Ahab remained invisibly enshrined within his cabin. At length, towards noon, upon the final dismissal of the ship’s riggers, and after the Pequod had been hauled out from the wharf, and after the ever-thoughtful Charity had come off in a whale-boat, with her last gift—a night-cap for Stubb, the second mate, her brother-in-law, and a spare Bible for the steward—after all this, the two Captains, Peleg and Bildad, issued from the cabin, and turning to the chief mate, Peleg said:  “Now, Mr. Starbuck, are you sure everything is right? Captain Ahab is all ready—just spoke to him—nothing more to be got from shore, eh?",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.9689
+            },
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9579
+            }
+        ]
+    },
+    {
+        "sentence_index": 2177,
+        "target_sentence": "It is noon; and Dough-Boy, the steward, thrusting his pale loaf-of-bread face from the cabin-scuttle, announces dinner to his lord and master; who, sitting in the lee quarter-boat, has just been taking an observation of the sun; and is now mutely reckoning the latitude on the smooth, medallion-shaped tablet, reserved for that daily purpose on the upper part of his ivory leg.",
+        "full_context": "what shall be grand in thee, it must needs be plucked at from the skies, and dived for in the deep, and featured in the unbodied air! It is noon; and Dough-Boy, the steward, thrusting his pale loaf-of-bread face from the cabin-scuttle, announces dinner to his lord and master; who, sitting in the lee quarter-boat, has just been taking an observation of the sun; and is now mutely reckoning the latitude on the smooth, medallion-shaped tablet, reserved for that daily purpose on the upper part of his ivory leg. From his complete inattention to the tidings, you would think that moody Ahab had not heard his menial.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9987
+            }
+        ]
+    },
+    {
+        "sentence_index": 2488,
+        "target_sentence": "The gold brow plumbs the blue. The diver sun—slow dived from noon—goes down; my soul mounts up! she wearies with her endless hill.",
+        "full_context": "The gold brow plumbs the blue. The diver sun—slow dived from noon—goes down; my soul mounts up! she wearies with her endless hill.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.9828
+            }
+        ]
+    },
+    {
+        "sentence_index": 2606,
+        "target_sentence": "Eight bells there, forward!",
+        "full_context": "While the bold harpooner is striking the whale! MATE’S VOICE FROM THE QUARTER-DECK. Eight bells there, forward!",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "the quarter",
+                "score": 0.8946
+            }
+        ]
+    },
+    {
+        "sentence_index": 2882,
+        "target_sentence": "when seen gliding at high noon through a dark blue sea, leaving a milky-way wake of creamy foam, all spangled with golden gleamings.",
+        "full_context": "These were his prominent features; the tokens whereby, even in the limitless, uncharted seas, he revealed his identity, at a long distance, to those who knew him. The rest of his body was so streaked, and spotted, and marbled with the same shrouded hue, that, in the end, he had gained his distinctive appellation of the White Whale; a name, indeed, literally justified by his vivid aspect, when seen gliding at high noon through a dark blue sea, leaving a milky-way wake of creamy foam, all spangled with golden gleamings. Nor was it his unwonted magnitude, nor his remarkable hue, nor yet his deformed lower jaw, that so much invested the whale with natural terror, as that unexampled, intelligent malignity which, according to specific accounts, he had over and over again evinced in his assaults.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.9894
+            }
+        ]
+    },
+    {
+        "sentence_index": 3016,
+        "target_sentence": "What I mean by these two statements may perhaps be respectively elucidated by the following examples. First: The mariner, when drawing nigh the coasts of foreign lands, if by night he hear the roar of breakers, starts to vigilance, and feels just enough of trepidation to sharpen all his faculties; but under precisely similar circumstances, let him be called from his hammock to view his ship sailing through a midnight sea of milky whiteness—as if from encircling headlands shoals of combed white bears were swimming round him, then he feels a silent, superstitious dread; the shrouded phantom of the whitened waters is horrible to him as a real ghost; in vain the lead assures him he is still off soundings; heart and helm they both go down; he never rests till blue water is under him again.",
+        "full_context": "What I mean by these two statements may perhaps be respectively elucidated by the following examples. First: The mariner, when drawing nigh the coasts of foreign lands, if by night he hear the roar of breakers, starts to vigilance, and feels just enough of trepidation to sharpen all his faculties; but under precisely similar circumstances, let him be called from his hammock to view his ship sailing through a midnight sea of milky whiteness—as if from encircling headlands shoals of combed white bears were swimming round him, then he feels a silent, superstitious dread; the shrouded phantom of the whitened waters is horrible to him as a real ghost; in vain the lead assures him he is still off soundings; heart and helm they both go down; he never rests till blue water is under him again. Yet where is the mariner who will tell thee, “Sir, it was not so much the fear of striking hidden rocks, as the fear of that hideous whiteness that so stirred me?”  Second: To the native Indian of Peru, the continual sight of the snow-howdahed Andes conveys naught of dread, except, perhaps, in the mere fancying of the eternal frosted desolateness reigning at such vast altitudes, and the natural conceit of what a fearfulness it would be to lose oneself in such inhuman solitudes.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.9973
+            },
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9921
+            }
+        ]
+    },
+    {
+        "sentence_index": 3087,
+        "target_sentence": "as after poring over his charts till long after midnight he would throw himself back in reveries—tallied him, and shall he escape?",
+        "full_context": "For the peculiar snow-white brow of Moby Dick, and his snow-white hump, could not but be unmistakable. And have I not tallied the whale, Ahab would mutter to himself, as after poring over his charts till long after midnight he would throw himself back in reveries—tallied him, and shall he escape? His broad fins are bored, and scalloped out like a lost sheep’s ear!",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.995
+            }
+        ]
+    },
+    {
+        "sentence_index": 3180,
+        "target_sentence": "“In our way thither,” he says, “about four o’clock in the morning, when we were about one hundred and fifty leagues from the Main of America, our ship felt a terrible shock, which put our men in such consternation that they could hardly tell where they were or what to think; but every one began to prepare for death.",
+        "full_context": "Lionel, it seems, was on his way to “John Ferdinando,” as he calls the modern Juan Fernandes. “In our way thither,” he says, “about four o’clock in the morning, when we were about one hundred and fifty leagues from the Main of America, our ship felt a terrible shock, which put our men in such consternation that they could hardly tell where they were or what to think; but every one began to prepare for death. And, indeed, the shock was so sudden and violent, that we took it for granted the ship had struck against a rock; but when the amazement was a little over, we cast the lead, and sounded, but found no ground.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the morning",
+                "score": 0.9957
+            }
+        ]
+    },
+    {
+        "sentence_index": 3779,
+        "target_sentence": "and shrieked out for the Captain at midnight. “Thinking murder at hand, and smelling in the dark for the blood, he and all his armed mates and harpooneers rushed for the forecastle.",
+        "full_context": "“Upon hearing the frantic project of their leader, each in his own separate soul had suddenly lighted, it would seem, upon the same piece of treachery, namely: to be foremost in breaking out, in order to be the first of the three, though the last of the ten, to surrender; and thereby secure whatever small chance of pardon such conduct might merit. But when Steelkilt made known his determination still to lead them to the last, they in some way, by some subtle chemistry of villany, mixed their before secret treacheries together; and when their leader fell into a doze, verbally opened their souls to each other in three sentences; and bound the sleeper with cords, and gagged him with cords; and shrieked out for the Captain at midnight. “Thinking murder at hand, and smelling in the dark for the blood, he and all his armed mates and harpooneers rushed for the forecastle.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9962
+            }
+        ]
+    },
+    {
+        "sentence_index": 3809,
+        "target_sentence": "Steelkilt calculated his time, and found that his next trick at the helm would come round at two o’clock, in the morning of the third day from that in which he had been betrayed.",
+        "full_context": "There was a considerable vacancy between the boat and the ship, and down between this was the sea. Steelkilt calculated his time, and found that his next trick at the helm would come round at two o’clock, in the morning of the third day from that in which he had been betrayed. At his leisure, he employed the interval in braiding something very carefully in his watches below.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "the morning of the third day",
+                "score": 0.9943
+            }
+        ]
+    },
+    {
+        "sentence_index": 4248,
+        "target_sentence": "About midnight that steak was cut and cooked; and lighted by two lanterns of sperm oil, Stubb stoutly stood up to his spermaceti supper at the capstan-head, as if that capstan were a sideboard.",
+        "full_context": "You, Daggoo! overboard you go, and cut me one from his small!”  Here be it known, that though these wild fishermen do not, as a general thing, and according to the great military maxim, make the enemy defray the current expenses of the war (at least before realizing the proceeds of the voyage), yet now and then you find some of these Nantucketers who have a genuine relish for that particular part of the Sperm Whale designated by Stubb; comprising the tapering extremity of the body. About midnight that steak was cut and cooked; and lighted by two lanterns of sperm oil, Stubb stoutly stood up to his spermaceti supper at the capstan-head, as if that capstan were a sideboard.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "current",
+                "score": 0.997
+            },
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.8849
+            }
+        ]
+    },
+    {
+        "sentence_index": 4249,
+        "target_sentence": "About midnight that steak was cut and cooked; and lighted by two lanterns of sperm oil, Stubb stoutly stood up to his spermaceti supper at the capstan-head, as if that capstan were a sideboard.",
+        "full_context": "overboard you go, and cut me one from his small!”  Here be it known, that though these wild fishermen do not, as a general thing, and according to the great military maxim, make the enemy defray the current expenses of the war (at least before realizing the proceeds of the voyage), yet now and then you find some of these Nantucketers who have a genuine relish for that particular part of the Sperm Whale designated by Stubb; comprising the tapering extremity of the body. About midnight that steak was cut and cooked; and lighted by two lanterns of sperm oil, Stubb stoutly stood up to his spermaceti supper at the capstan-head, as if that capstan were a sideboard. Nor was Stubb the only banqueter on whale’s flesh that night.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9983
+            }
+        ]
+    },
+    {
+        "sentence_index": 4250,
+        "target_sentence": "About midnight that steak was cut and cooked; and lighted by two lanterns of sperm oil, Stubb stoutly stood up to his spermaceti supper at the capstan-head, as if that capstan were a sideboard.",
+        "full_context": "About midnight that steak was cut and cooked; and lighted by two lanterns of sperm oil, Stubb stoutly stood up to his spermaceti supper at the capstan-head, as if that capstan were a sideboard. Nor was Stubb the only banqueter on whale’s flesh that night. Mingling their mumblings with his own mastications, thousands on thousands of sharks, swarming round the dead leviathan, smackingly feasted on its fatness.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "that night",
+                "score": 0.9909
+            }
+        ]
+    },
+    {
+        "sentence_index": 4499,
+        "target_sentence": "When this last task was accomplished it was noon, and the seamen went below to their dinner.",
+        "full_context": "When this last task was accomplished it was noon, and the seamen went below to their dinner. Silence reigned over the before tumultuous but now deserted deck. An intense copper calm, like a universal yellow lotus, was more and more unfolding its noiseless measureless leaves upon the sea.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9974
+            }
+        ]
+    },
+    {
+        "sentence_index": 5117,
+        "target_sentence": "As the three boats lay there on that gently rolling sea, gazing down into its eternal blue noon; and as not a single groan or cry of any sort, nay, not so much as a ripple or a bubble came up from its depths; what landsman would have thought, that beneath all that silence and placidity, the utmost monster of the seas was writhing and wrenching in agony!",
+        "full_context": "One whaleman has estimated it at the weight of twenty line-of-battle ships, with all their guns, and stores, and men on board. As the three boats lay there on that gently rolling sea, gazing down into its eternal blue noon; and as not a single groan or cry of any sort, nay, not so much as a ripple or a bubble came up from its depths; what landsman would have thought, that beneath all that silence and placidity, the utmost monster of the seas was writhing and wrenching in agony! Not eight inches of perpendicular rope were visible at the bows.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "eternal",
+                "score": 0.8793
+            },
+            {
+                "type": "TIME",
+                "text": "blue",
+                "score": 0.9497
+            },
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.9661
+            }
+        ]
+    },
+    {
+        "sentence_index": 5261,
+        "target_sentence": "Towards noon whales were raised; but so soon as the ship sailed down to them, they turned and fled with swift precipitancy; a disordered flight, as of Cleopatra’s barges from Actium.",
+        "full_context": "Nor did it remain unwarranted by the event. Towards noon whales were raised; but so soon as the ship sailed down to them, they turned and fled with swift precipitancy; a disordered flight, as of Cleopatra’s barges from Actium. Nevertheless, the boats pursued, and Stubb’s was foremost.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.9919
+            }
+        ]
+    },
+    {
+        "sentence_index": 5288,
+        "target_sentence": "That for six thousand years—and no one knows how many millions of ages before—the great whales should have been spouting all over the sea, and sprinkling and mistifying the gardens of the deep, as with so many sprinkling or mistifying pots; and that for some centuries back, thousands of hunters should have been close by the fountain of the whale, watching these sprinklings and spoutings—that all this should be, and yet, that down to this blessed minute (fifteen and a quarter minutes past one o’clock P.M. of this sixteenth day of December, A.D. 1851), it should still remain a problem, whether these spoutings are, after all, really water, or nothing but vapor—this is surely a noteworthy thing.",
+        "full_context": "The agonized whale goes into his flurry; the tow-line is slackened, and the pitchpoler dropping astern, folds his hands, and mutely watches the monster die. That for six thousand years—and no one knows how many millions of ages before—the great whales should have been spouting all over the sea, and sprinkling and mistifying the gardens of the deep, as with so many sprinkling or mistifying pots; and that for some centuries back, thousands of hunters should have been close by the fountain of the whale, watching these sprinklings and spoutings—that all this should be, and yet, that down to this blessed minute (fifteen and a quarter minutes past one o’clock P.M. of this sixteenth day of December, A.D. 1851), it should still remain a problem, whether these spoutings are, after all, really water, or nothing but vapor—this is surely a noteworthy thing. Let us, then, look at this matter, along with some interesting items contingent.",
+        "timex3_entities": [
+            {
+                "type": "DURATION",
+                "text": "years",
+                "score": 0.9303
+            },
+            {
+                "type": "DURATION",
+                "text": "some centuries",
+                "score": 0.999
+            },
+            {
+                "type": "DURATION",
+                "text": "blessed minute",
+                "score": 0.8105
+            },
+            {
+                "type": "DURATION",
+                "text": "fifteen",
+                "score": 0.8894
+            },
+            {
+                "type": "DURATION",
+                "text": "minutes",
+                "score": 0.998
+            },
+            {
+                "type": "DATE",
+                "text": "this sixteenth day of december",
+                "score": 0.9648
+            },
+            {
+                "type": "DATE",
+                "text": "1851",
+                "score": 0.8217
+            }
+        ]
+    },
+    {
+        "sentence_index": 5831,
+        "target_sentence": "Poor Pip! ye have heard of him before; ye must remember his tambourine on that dramatic midnight, so gloomy-jolly.",
+        "full_context": "Poor Pip! ye have heard of him before; ye must remember his tambourine on that dramatic midnight, so gloomy-jolly. In outer aspect, Pip and Dough-Boy made a match, like a black pony and a white one, of equal developments, though of dissimilar colour, driven in one eccentric span.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.8895
+            }
+        ]
+    },
+    {
+        "sentence_index": 5981,
+        "target_sentence": "It was about nine o’clock at night that the Pequod’s try-works were first started on this present voyage.",
+        "full_context": "And here let us go back for a moment. It was about nine o’clock at night that the Pequod’s try-works were first started on this present voyage. It belonged to Stubb to oversee the business.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.9976
+            }
+        ]
+    },
+    {
+        "sentence_index": 5994,
+        "target_sentence": "By midnight the works were in full operation.",
+        "full_context": "It has an unspeakable, wild, Hindoo odor about it, such as may lurk in the vicinity of funereal pyres. It smells like the left wing of the day of judgment; it is an argument for the pit. By midnight the works were in full operation.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "the day",
+                "score": 0.9688
+            }
+        ]
+    },
+    {
+        "sentence_index": 5995,
+        "target_sentence": "By midnight the works were in full operation.",
+        "full_context": "It smells like the left wing of the day of judgment; it is an argument for the pit. By midnight the works were in full operation. We were clear from the carcase; sail had been made; the wind was freshening; the wild ocean darkness was intense.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9991
+            }
+        ]
+    },
+    {
+        "sentence_index": 5999,
+        "target_sentence": "The burning ship drove on, as if remorselessly commissioned to some vengeful deed. So the pitch and sulphur-freighted brigs of the bold Hydriote, Canaris, issuing from their midnight harbors, with broad sheets of flame for sails, bore down upon the Turkish frigates, and folded them in conflagrations. The hatch, removed from the top of the works, now afforded a wide hearth in front of them.",
+        "full_context": "The burning ship drove on, as if remorselessly commissioned to some vengeful deed. So the pitch and sulphur-freighted brigs of the bold Hydriote, Canaris, issuing from their midnight harbors, with broad sheets of flame for sails, bore down upon the Turkish frigates, and folded them in conflagrations. The hatch, removed from the top of the works, now afforded a wide hearth in front of them.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9993
+            }
+        ]
+    },
+    {
+        "sentence_index": 6117,
+        "target_sentence": "Yet, oh, the great sun is no fixture; and if, at midnight, we would fain snatch some sweet solace from him, we gaze for him in vain!",
+        "full_context": "If we bend down our eyes, the dark vale shows her mouldy soil; but if we lift them, the bright sun meets our glance half way, to cheer. Yet, oh, the great sun is no fixture; and if, at midnight, we would fain snatch some sweet solace from him, we gaze for him in vain! This coin speaks wisely, mildly, truly, but still sadly to me.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9983
+            }
+        ]
+    },
+    {
+        "sentence_index": 6270,
+        "target_sentence": "“Drinking hot rum toddies with me every night, till he couldn’t see to put on the bandages; and sending me to bed, half seas over, about three o’clock in the morning.",
+        "full_context": "“It was a shocking bad wound,” began the whale-surgeon; “and, taking my advice, Captain Boomer here, stood our old Sammy—”  “Samuel Enderby is the name of my ship,” interrupted the one-armed captain, addressing Ahab; “go on, boy.”  “Stood our old Sammy off to the northward, to get out of the blazing hot weather there on the Line. But it was no use—I did all I could; sat up with him nights; was very severe with him in the matter of diet—”  “Oh, very severe!” chimed in the patient himself; then suddenly altering his voice, “Drinking hot rum toddies with me every night, till he couldn’t see to put on the bandages; and sending me to bed, half seas over, about three o’clock in the morning. Oh, ye stars!",
+        "timex3_entities": [
+            {
+                "type": "SET",
+                "text": "nights",
+                "score": 0.449
+            },
+            {
+                "type": "SET",
+                "text": "every night",
+                "score": 0.9916
+            },
+            {
+                "type": "TIME",
+                "text": "the",
+                "score": 0.6167
+            },
+            {
+                "type": "SET",
+                "text": "morning",
+                "score": 0.9392
+            }
+        ]
+    },
+    {
+        "sentence_index": 6329,
+        "target_sentence": "I boarded her once at midnight somewhere off the Patagonian coast, and drank good flip down in the forecastle.",
+        "full_context": "The ship named after him was worthy of the honor, being a very fast sailer and a noble craft every way. I boarded her once at midnight somewhere off the Patagonian coast, and drank good flip down in the forecastle. It was a fine gam we had, and they were all trumps—every soul on board.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9988
+            }
+        ]
+    },
+    {
+        "sentence_index": 6608,
+        "target_sentence": "such as might have served to pass the time during the midnight watch on the bearded forecastle of Noah’s ark.",
+        "full_context": "For nothing was this man more remarkable, than for a certain impersonal stolidity as it were; impersonal, I say; for it so shaded off into the surrounding infinite of things, that it seemed one with the general stolidity discernible in the whole visible world; which while pauselessly active in uncounted modes, still eternally holds its peace, and ignores you, though you dig foundations for cathedrals. Yet was this half-horrible stolidity in him, involving, too, as it appeared, an all-ramifying heartlessness;—yet was it oddly dashed at times, with an old, crutch-like, antediluvian, wheezing humorousness, not unstreaked now and then with a certain grizzled wittiness; such as might have served to pass the time during the midnight watch on the bearded forecastle of Noah’s ark. Was it that this old carpenter had been a life-long wanderer, whose much rolling, to and fro, not only had gathered no moss; but what is more, had rubbed off whatever small outward clingings might have originally pertained to him?",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9954
+            },
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.5824
+            }
+        ]
+    },
+    {
+        "sentence_index": 6879,
+        "target_sentence": "one bitter winter’s midnight, on the road running between two country towns, the blacksmith half-stupidly felt the deadly numbness stealing over him, and sought refuge in a leaning, dilapidated barn.",
+        "full_context": "A peculiar walk in this old man, a certain slight but painful appearing yawing in his gait, had at an early period of the voyage excited the curiosity of the mariners. And to the importunity of their persisted questionings he had finally given in; and so it came to pass that every one now knew the shameful story of his wretched fate. Belated, and not innocently, one bitter winter’s midnight, on the road running between two country towns, the blacksmith half-stupidly felt the deadly numbness stealing over him, and sought refuge in a leaning, dilapidated barn.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9975
+            }
+        ]
+    },
+    {
+        "sentence_index": 6880,
+        "target_sentence": "one bitter winter’s midnight, on the road running between two country towns, the blacksmith half-stupidly felt the deadly numbness stealing over him, and sought refuge in a leaning, dilapidated barn.",
+        "full_context": "And to the importunity of their persisted questionings he had finally given in; and so it came to pass that every one now knew the shameful story of his wretched fate. Belated, and not innocently, one bitter winter’s midnight, on the road running between two country towns, the blacksmith half-stupidly felt the deadly numbness stealing over him, and sought refuge in a leaning, dilapidated barn. The issue was, the loss of the extremities of both feet.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9364
+            }
+        ]
+    },
+    {
+        "sentence_index": 6902,
+        "target_sentence": "about mid-day, Perth was standing between his forge and anvil, the latter placed upon an iron-wood log, with one hand holding a pike-head in the coals, and with the other at his forge’s lungs, when Captain Ahab came along, carrying in his hand a small rusty-looking leathern bag.",
+        "full_context": "And so Perth went a-whaling. With matted beard, and swathed in a bristling shark-skin apron, about mid-day, Perth was standing between his forge and anvil, the latter placed upon an iron-wood log, with one hand holding a pike-head in the coals, and with the other at his forge’s lungs, when Captain Ahab came along, carrying in his hand a small rusty-looking leathern bag. While yet a little distance from the forge, moody Ahab paused; till at last, Perth, withdrawing his iron from the fire, began hammering it upon the anvil—the red mass sending off the sparks in thick hovering flights, some of which flew close to Ahab.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "mid - day",
+                "score": 0.9935
+            }
+        ]
+    },
+    {
+        "sentence_index": 7020,
+        "target_sentence": "midnight waves, which gently chafed the whale’s broad flank, like soft surf upon a beach.",
+        "full_context": "These last three were brought alongside ere nightfall; but the windward one could not be reached till morning; and the boat that had killed it lay by its side all night; and that boat was Ahab’s. The waif-pole was thrust upright into the dead whale’s spout-hole; and the lantern hanging from its top, cast a troubled flickering glare upon the black, glossy back, and far out upon the midnight waves, which gently chafed the whale’s broad flank, like soft surf upon a beach. Ahab and all his boat’s crew seemed asleep but the Parsee; who crouching in the bow, sat watching the sharks, that spectrally played round the whale, and tapped the light cedar planks with their tails.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9902
+            }
+        ]
+    },
+    {
+        "sentence_index": 7036,
+        "target_sentence": "It was hard upon high noon; and Ahab, seated in the bows of his high-hoisted boat, was about taking his wonted daily observation of the sun to determine his latitude.",
+        "full_context": "It was hard upon high noon; and Ahab, seated in the bows of his high-hoisted boat, was about taking his wonted daily observation of the sun to determine his latitude. Now, in that Japanese sea, the days in summer are as freshets of effulgences. That unblinkingly vivid Japanese sun seems the blazing focus of the glassy ocean’s immeasurable burning-glass.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.7058
+            },
+            {
+                "type": "DURATION",
+                "text": "the days",
+                "score": 0.9875
+            },
+            {
+                "type": "DATE",
+                "text": "summer",
+                "score": 0.9867
+            }
+        ]
+    },
+    {
+        "sentence_index": 7052,
+        "target_sentence": "not one jot more! Thou canst not tell where one drop of water or one grain of sand will be to-morrow noon; and yet with thy impotence thou insultest the sun! Science!",
+        "full_context": "not one jot more! Thou canst not tell where one drop of water or one grain of sand will be to-morrow noon; and yet with thy impotence thou insultest the sun! Science!",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "morrow",
+                "score": 0.8833
+            },
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.5427
+            }
+        ]
+    },
+    {
+        "sentence_index": 7088,
+        "target_sentence": "the very course he swung to this day noon?",
+        "full_context": "look through my eyes if thou hast none of thine own.”  “What! how can you see better of a dark night than anybody else, never mind how foolish?”  “Here!” cried Starbuck, seizing Stubb by the shoulder, and pointing his hand towards the weather bow, “markest thou not that the gale comes from the eastward, the very course Ahab is to run for Moby Dick? the very course he swung to this day noon?",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "dark",
+                "score": 0.8049
+            },
+            {
+                "type": "TIME",
+                "text": "night",
+                "score": 0.9859
+            }
+        ]
+    },
+    {
+        "sentence_index": 7089,
+        "target_sentence": "“Here!” cried Starbuck, seizing Stubb by the shoulder, and pointing his hand towards the weather bow, “markest thou not that the gale comes from the eastward, the very course Ahab is to run for Moby Dick? the very course he swung to this day noon? now mark his boat there; where is that stove?",
+        "full_context": "how can you see better of a dark night than anybody else, never mind how foolish?”  “Here!” cried Starbuck, seizing Stubb by the shoulder, and pointing his hand towards the weather bow, “markest thou not that the gale comes from the eastward, the very course Ahab is to run for Moby Dick? the very course he swung to this day noon? now mark his boat there; where is that stove?",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "this day noon",
+                "score": 0.8118
+            }
+        ]
+    },
+    {
+        "sentence_index": 7090,
+        "target_sentence": "the very course he swung to this day noon? now mark his boat there; where is that stove? In the stern-sheets, man; where he is wont to stand—his stand-point is stove, man!",
+        "full_context": "the very course he swung to this day noon? now mark his boat there; where is that stove? In the stern-sheets, man; where he is wont to stand—his stand-point is stove, man!",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9784
+            }
+        ]
+    },
+    {
+        "sentence_index": 7244,
+        "target_sentence": "Some hours after midnight, the Typhoon abated so much, that through the strenuous exertions of Starbuck and Stubb—one engaged forward and the other aft—the shivered remnants of the jib and fore and main-top-sails were cut adrift from the spars, and went eddying away to leeward, like the feathers of an albatross, which sometimes are cast to the winds when that storm-tossed bird is on the wing.",
+        "full_context": "Some hours after midnight, the Typhoon abated so much, that through the strenuous exertions of Starbuck and Stubb—one engaged forward and the other aft—the shivered remnants of the jib and fore and main-top-sails were cut adrift from the spars, and went eddying away to leeward, like the feathers of an albatross, which sometimes are cast to the winds when that storm-tossed bird is on the wing. The three corresponding new sails were now bent and reefed, and a storm-trysail was set further aft; so that the ship soon went through the water with some precision again; and the course—for the present, East-south-east—which he was to steer, if practicable, was once more given to the helmsman. For during the violence of the gale, he had only steered according to its vicissitudes.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.998
+            }
+        ]
+    },
+    {
+        "sentence_index": 7583,
+        "target_sentence": "near midnight",
+        "full_context": "There was some apprehension, but no positive alarm, as yet. The recall signals were placed in the rigging; darkness came on; and forced to pick up her three far to windward boats—ere going in quest of the fourth one in the precisely opposite direction—the ship had not only been necessitated to leave that boat to its fate till near midnight, but, for the time, to increase her distance from it. But the rest of her crew being at last safe aboard, she crowded all sail—stunsail on stunsail—after the missing boat; kindling a fire in her try-pots for a beacon; and every other man aloft on the look-out.",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "midnight",
+                "score": 0.9396
+            },
+            {
+                "type": "DATE",
+                "text": "the time",
+                "score": 0.9902
+            }
+        ]
+    },
+    {
+        "sentence_index": 7784,
+        "target_sentence": "I have seen them—some summer days in the morning. About this time—yes, it is his noon nap now—the boy vivaciously wakes; sits up in bed; and his mother tells him of me, of cannibal old me; how I am abroad upon the deep, but will yet come back to dance him again.”",
+        "full_context": "I have seen them—some summer days in the morning. About this time—yes, it is his noon nap now—the boy vivaciously wakes; sits up in bed; and his mother tells him of me, of cannibal old me; how I am abroad upon the deep, but will yet come back to dance him again.”  “’Tis my Mary, my Mary herself! She promised that my boy, every morning, should be carried to the hill to catch the first glimpse of his father’s sail!",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.9897
+            },
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9992
+            }
+        ]
+    },
+    {
+        "sentence_index": 7870,
+        "target_sentence": "“An hour,” said Ahab, standing rooted in his boat’s stern; and he gazed beyond the whale’s place, towards the dim blue spaces and wide wooing vacancies to leeward.",
+        "full_context": "Hoveringly halting, and dipping on the wing, the white sea-fowls longingly lingered over the agitated pool that he left. With oars apeak, and paddles down, the sheets of their sails adrift, the three boats now stilly floated, awaiting Moby Dick’s reappearance. “An hour,” said Ahab, standing rooted in his boat’s stern; and he gazed beyond the whale’s place, towards the dim blue spaces and wide wooing vacancies to leeward.",
+        "timex3_entities": [
+            {
+                "type": "DATE",
+                "text": "now",
+                "score": 0.9986
+            }
+        ]
+    },
+    {
+        "sentence_index": 8111,
+        "target_sentence": "What d’ye see?”  “Nothing, sir.”  “Nothing! and noon at hand! The doubloon goes a-begging!",
+        "full_context": "What d’ye see?”  “Nothing, sir.”  “Nothing! and noon at hand! The doubloon goes a-begging!",
+        "timex3_entities": [
+            {
+                "type": "TIME",
+                "text": "noon",
+                "score": 0.9854
+            }
+        ]
+    }
+]

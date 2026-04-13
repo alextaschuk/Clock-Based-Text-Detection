@@ -1,0 +1,410 @@
+[
+    {
+        "sentence_index": 179,
+        "target_sentence": "“She might have the decency not to telephone him at dinner time.",
+        "annotated_sentence": "“She might have the decency not to telephone him at dinner time.  <timex3 type=\"TIME\" value=\"2015-03-15T18:00\"> dinner </time x3>  time . . < timex 3 type \"DURATION\"value=\"PAST_REF\"> time time ST.",
+        "full_context": "Miss Baker nodded. “She might have the decency not to telephone him at dinner time. Don’t you think?”  Almost before I had grasped her meaning there was the flutter of a dress and the crunch of leather boots, and Tom and Daisy were back at the table.",
+        "clock_entities": [
+            {
+                "clock_time": "18:00",
+                "text": "dinner"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2015-03-15T18:00",
+                "text": "dinner"
+            }
+        ]
+    },
+    {
+        "sentence_index": 191,
+        "target_sentence": "Daisy took her face in her hands as if feeling its lovely shape, and her eyes moved gradually out into the velvet dusk.",
+        "annotated_sentence": "Daisy took her face in her hands as if feeling its lovely shape, and her eyes moved gradually out into the velvet  <timex3 type=\"TIME\" value=\"2013-06-01T00:00\"> dusk </timexi> . <timexes.",
+        "full_context": "In its deep gloom we sat down side by side on a wicker settee. Daisy took her face in her hands as if feeling its lovely shape, and her eyes moved gradually out into the velvet dusk. I saw that turbulent emotions possessed her, so I asked what I thought would be some sedative questions about her little girl.",
+        "clock_entities": [
+            {
+                "clock_time": "00:00",
+                "text": "dusk"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-06-01T00:00",
+                "text": "dusk"
+            }
+        ]
+    },
+    {
+        "sentence_index": 217,
+        "target_sentence": "“Ten o’clock,” she remarked, apparently finding the time on the ceiling.",
+        "annotated_sentence": "“ <timex3 type=\"TIME\" value=\"2013-10-23T10:00\"> Ten o’clock </timeX3> ,” she remarked, apparently finding the time on the ceiling.  < timex5 type\">. </ timeXX </ Timex 3> .",
+        "full_context": "“To be continued,” she said, tossing the magazine on the table, “in our very next issue.”  Her body asserted itself with a restless movement of her knee, and she stood up. “Ten o’clock,” she remarked, apparently finding the time on the ceiling. “Time for this good girl to go to bed.”  “Jordan’s going to play in the tournament tomorrow,” explained Daisy, “over at Westchester.”  “Oh—you’re Jordan Baker.”  I knew now why her face was familiar—its pleasing contemptuous expression had looked out at me from many rotogravure pictures of the sporting life at Asheville and Hot Springs and Palm Beach.",
+        "clock_entities": [
+            {
+                "clock_time": "10:00",
+                "text": "Ten o’clock"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-10-23T10:00",
+                "text": "Ten o’clock"
+            }
+        ]
+    },
+    {
+        "sentence_index": 456,
+        "target_sentence": "Some time toward midnight Tom Buchanan and Mrs. Wilson stood face to face discussing, in impassioned voices, whether Mrs. Wilson had any right to mention Daisy’s name.",
+        "annotated_sentence": "Some time toward  <timex3 type=\"TIME\" value=\"1998-08-18T24:00\"> midnight </time x3>  Tom Buchanan and Mrs. Wilson stood face to face discussing, in impassioned voices, whether Mrs . Wilson had any right to mention Daisy’s name.",
+        "full_context": "People disappeared, reappeared, made plans to go somewhere, and then lost each other, searched for each other, found each other a few feet away. Some time toward midnight Tom Buchanan and Mrs. Wilson stood face to face discussing, in impassioned voices, whether Mrs. Wilson had any right to mention Daisy’s name. “Daisy!",
+        "clock_entities": [
+            {
+                "clock_time": "24:00",
+                "text": "midnight"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-08-18T24:00",
+                "text": "midnight"
+            }
+        ]
+    },
+    {
+        "sentence_index": 586,
+        "target_sentence": "By midnight the hilarity had increased.",
+        "annotated_sentence": "By  <timex3 type=\"TIME\" value=\"1998-12-24T24:00\"> midnight </timeXX-WXXT00:30 the hilarity had increased. . .. < timex2 type \"DATE\" Value=\"2014-10-23\"> the hilarious.</time x3> .",
+        "full_context": "There was dancing now on the canvas in the garden; old men pushing young girls backward in eternal graceless circles, superior couples holding each other tortuously, fashionably, and keeping in the corners—and a great number of single girls dancing individually or relieving the orchestra for a moment of the burden of the banjo or the traps. By midnight the hilarity had increased. A celebrated tenor had sung in Italian, and a notorious contralto had sung in jazz, and between the numbers people were doing “stunts” all over the garden, while happy, vacuous bursts of laughter rose toward the summer sky.",
+        "clock_entities": [
+            {
+                "clock_time": "24:00",
+                "text": "midnight"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-12-24T24:00",
+                "text": "midnight"
+            },
+            {
+                "value": "2014-10-23",
+                "text": "the hilarious."
+            }
+        ]
+    },
+    {
+        "sentence_index": 721,
+        "target_sentence": "After that, if the night was mellow, I strolled down Madison Avenue past the old Murray Hill Hotel, and over 33rd Street to the Pennsylvania Station.",
+        "annotated_sentence": "After that, if the night was mellow, I strolled down Madison Avenue past the old Murray Hill Hotel, and over 33rd Street to the Pennsylvania Station. <timex3 type=\"TIME\" value=\"1998-03-20T17:00\">.</timeXX\">.",
+        "full_context": "There were generally a few rioters around, but they never came into the library, so it was a good place to work. After that, if the night was mellow, I strolled down Madison Avenue past the old Murray Hill Hotel, and over 33rd Street to the Pennsylvania Station. I began to like New York, the racy, adventurous feel of it at night, and the satisfaction that the constant flicker of men and women and machines gives to the restless eye.",
+        "clock_entities": [
+            {
+                "clock_time": "17:00",
+                "text": "."
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-03-20T17:00",
+                "text": "."
+            }
+        ]
+    },
+    {
+        "sentence_index": 855,
+        "target_sentence": "------------------------------------------------------------------------  Roaring noon.",
+        "annotated_sentence": "------------------------------------------------------------------------  Roaring  <timex3 type=\"TIME\" value=\"2013-12-23T12:00\"> noon </time x3> .  RRoaring noon. •> .  Pedro  Anaring midnight. . Petro  The Raring.",
+        "full_context": "“Anything can happen now that we’ve slid over this bridge,” I thought; “anything at all …”  Even Gatsby could happen, without any particular wonder. ------------------------------------------------------------------------  Roaring noon. In a well-fanned Forty-second Street cellar I met Gatsby for lunch.",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "noon"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-12-23T12:00",
+                "text": "noon"
+            }
+        ]
+    },
+    {
+        "sentence_index": 972,
+        "target_sentence": "The next April Daisy had her little girl, and they went to France for a year.",
+        "annotated_sentence": " <timex3 type=\"DATE\" value=\"1944-04\"> The next April </timered Daisy had her little girl, and they went to France for a year.  than her year, her just girl. <dURATION\" Value=\"P1YT01:00TNI\"> A year </ timex 3> .",
+        "full_context": "The girl who was with him got into the papers, too, because her arm was broken—she was one of the chambermaids in the Santa Barbara Hotel. The next April Daisy had her little girl, and they went to France for a year. I saw them one spring in Cannes, and later in Deauville, and then they came back to Chicago to settle down.",
+        "clock_entities": [
+            {
+                "clock_time": "01:00",
+                "text": "A year"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1944-04",
+                "text": "The next April"
+            },
+            {
+                "value": "P1YT01:00TNI",
+                "text": "A year"
+            }
+        ]
+    },
+    {
+        "sentence_index": 1047,
+        "target_sentence": "At eleven o’clock a man in a raincoat, dragging a lawn-mower, tapped at my front door and said that Mr. Gatsby had sent him over to cut my grass.",
+        "annotated_sentence": "At  <timex3 type=\"TIME\" value=\"2013-11-23T11:00\"> eleven o’clock </time x3>  a man in a raincoat, dragging a lawn-mower, tapped at my front door and said that Mr. Gatsby had sent him over to cut my grass.",
+        "full_context": "The day agreed upon was pouring rain. At eleven o’clock a man in a raincoat, dragging a lawn-mower, tapped at my front door and said that Mr. Gatsby had sent him over to cut my grass. This reminded me that I had forgotten to tell my Finn to come back, so I drove into West Egg Village to search for her among soggy whitewashed alleys and to buy some cups and lemons and flowers.",
+        "clock_entities": [
+            {
+                "clock_time": "11:00",
+                "text": "eleven o’clock"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-11-23T11:00",
+                "text": "eleven o’clock"
+            }
+        ]
+    },
+    {
+        "sentence_index": 1449,
+        "target_sentence": "As my train emerged from the tunnel into sunlight, only the hot whistles of the National Biscuit Company broke the simmering hush at noon.",
+        "annotated_sentence": "As my train emerged from the tunnel into sunlight, only the hot whistles of the National Biscuit Company broke the simmering hush at  <timex3 type=\"TIME\" value=\"1998-10-23T12:00\"> noon </timeX3> .",
+        "full_context": "The next day was broiling, almost the last, certainly the warmest, of the summer. As my train emerged from the tunnel into sunlight, only the hot whistles of the National Biscuit Company broke the simmering hush at noon. The straw seats of the car hovered on the edge of combustion; the woman next to me perspired delicately for a while into her white shirtwaist, and then, as her newspaper dampened under her fingers, lapsed despairingly into deep heat with a desolate cry.",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "noon"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-10-23T12:00",
+                "text": "noon"
+            }
+        ]
+    },
+    {
+        "sentence_index": 1465,
+        "target_sentence": "“I’m sorry, madame, but we can’t furnish it—it’s far too hot to touch this noon!”  What he really said was: “Yes … Yes … I’ll see.”  He set down the receiver and came toward us, glistening slightly, to take our stiff straw hats.",
+        "annotated_sentence": "“I’m sorry, madame, but we can”t furnish it—it s far too hot to touch  <timex3 type=\"TIME\" value=\"1998-10-23T12:00\"> this noon </time x3> !�.\"  What he really said was: “Yes ... Yes ... I‘ll see.‣  He set down the receiver and came toward us, glistening slightly, to take our stiff straw hats.",
+        "full_context": "“The master’s body?” roared the butler into the mouthpiece. “I’m sorry, madame, but we can’t furnish it—it’s far too hot to touch this noon!”  What he really said was: “Yes … Yes … I’ll see.”  He set down the receiver and came toward us, glistening slightly, to take our stiff straw hats. “Madame expects you in the salon!” he cried, needlessly indicating the direction.",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "this noon"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-10-23T12:00",
+                "text": "this noon"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2037,
+        "target_sentence": "It was nine o’clock when we finished breakfast and went out on the porch.",
+        "annotated_sentence": "It was  <timex3 type=\"TIME\" value=\"2013-09-23T09:00\"> nine o’clock </time x3>  when we finished breakfast and went out on the porch.  \"<timeXX\"> 9 o.clock</timexes.",
+        "full_context": "But it was all going by too fast now for his blurred eyes and he knew that he had lost that part of it, the freshest and the best, forever. It was nine o’clock when we finished breakfast and went out on the porch. The night had made a sharp difference in the weather and there was an autumn flavour in the air.",
+        "clock_entities": [
+            {
+                "clock_time": "09:00",
+                "text": "nine o’clock"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-09-23T09:00",
+                "text": "nine o’clock"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2048,
+        "target_sentence": "“Do, old sport.”  “I’ll call you about noon.”  We walked slowly down the steps.",
+        "annotated_sentence": "“Do, old sport.”  “I’ll call you about  <timex3 type=\"TIME\" value=\"2013-12-23T12:00\"> noon </time x3> .�.\"  We walked slowly down the steps.",
+        "full_context": "“I’ll call you up,” I said finally. “Do, old sport.”  “I’ll call you about noon.”  We walked slowly down the steps. “I suppose Daisy’ll call too.” He looked at me anxiously, as if he hoped I’d corroborate this.",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "noon"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-12-23T12:00",
+                "text": "noon"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2062,
+        "target_sentence": "Just before noon the phone woke me, and I started up with sweat breaking out on my forehead.",
+        "annotated_sentence": "Just before  <timex3 type=\"TIME\" value=\"1998-10-23T12:00\"> noon the phone woke me, and I started up with sweat breaking out on my forehead.  on noon </time x3> . The phone shook me.",
+        "full_context": "“I enjoyed breakfast, Gatsby.”  ------------------------------------------------------------------------  Up in the city, I tried for a while to list the quotations on an interminable amount of stock, then I fell asleep in my swivel-chair. Just before noon the phone woke me, and I started up with sweat breaking out on my forehead. It was Jordan Baker; she often called me up at this hour because the uncertainty of her own movements between hotels and clubs and private houses made her hard to find in any other way.",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "noon the phone woke me, and I started up with sweat breaking out on my forehead.  on noon"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-10-23T12:00",
+                "text": "noon the phone woke me, and I started up with sweat breaking out on my forehead.  on noon"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2076,
+        "target_sentence": "It was just noon.",
+        "annotated_sentence": "It was just  <timex3 type=\"TIME\" value=\"2013-12-23T12:00\"> noon </timeq=\"P1D\">noon </timesx 3> .  this is just noon.  noon</time x3> .",
+        "full_context": "Then I leaned back in my chair and tried to think. It was just noon. ------------------------------------------------------------------------  When I passed the ash-heaps on the train that morning I had crossed deliberately to the other side of the car.",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "noon"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-12-23T12:00",
+                "text": "noon"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2084,
+        "target_sentence": "Until long after midnight a changing crowd lapped up against the front of the garage, while George Wilson rocked himself back and forth on the couch inside.",
+        "annotated_sentence": "Until long after midnight a changing crowd lapped up against the front of the garage, while George Wilson rocked himself back and forth on the couch inside.  <timex3 type=\"TIME\" value=\"1998-10-23T24:00\"> midnight </time x3> .",
+        "full_context": "Someone, kind or curious, took her in his car and drove her in the wake of her sister’s body. Until long after midnight a changing crowd lapped up against the front of the garage, while George Wilson rocked himself back and forth on the couch inside. For a while the door of the office was open, and everyone who came into the garage glanced irresistibly through it.",
+        "clock_entities": [
+            {
+                "clock_time": "24:00",
+                "text": "midnight"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-10-23T24:00",
+                "text": "midnight"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2089,
+        "target_sentence": "After that, he stayed there alone with Wilson until dawn.",
+        "annotated_sentence": "After that, he stayed there alone with Wilson until  <timex3 type=\"TIME\" value=\"1999-09-15T00:00\"> dawn </timeX3> , dawn.  than dawn until with Taj until dawn.</timeXX- dawn-m.",
+        "full_context": "Still later Michaelis had to ask the last stranger to wait there fifteen minutes longer, while he went back to his own place and made a pot of coffee. After that, he stayed there alone with Wilson until dawn. About three o’clock the quality of Wilson’s incoherent muttering changed—he grew quieter and began to talk about the yellow car.",
+        "clock_entities": [
+            {
+                "clock_time": "00:00",
+                "text": "dawn"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1999-09-15T00:00",
+                "text": "dawn"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2131,
+        "target_sentence": "About five o’clock it was blue enough outside to snap off the light.",
+        "annotated_sentence": "About  <timex3 type=\"TIME\" value=\"2014-10-23T05:00\"> five o’clock </time x3>  it was blue enough outside to snap off the light.  \"<timeux=\"EVERY\" type\"> off.",
+        "full_context": "He was glad a little later when he noticed a change in the room, a blue quickening by the window, and realized that dawn wasn’t far off. About five o’clock it was blue enough outside to snap off the light. Wilson’s glazed eyes turned out to the ash-heaps, where small grey clouds took on fantastic shapes and scurried here and there in the faint dawn wind.",
+        "clock_entities": [
+            {
+                "clock_time": "05:00",
+                "text": "five o’clock"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2014-10-23T05:00",
+                "text": "five o’clock"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2140,
+        "target_sentence": "But Wilson stood there a long time, his face close to the window pane, nodding into the twilight.",
+        "annotated_sentence": "But Wilson stood there a long time, his face close to the window pane, nodding into  <timex3 type=\"TIME\" value=\"1999-03-12T00:00\"> the twilight </time x3> . <TIME,\" Wilson stands there  the dawn.",
+        "full_context": "Something made him turn away from the window and look back into the room. But Wilson stood there a long time, his face close to the window pane, nodding into the twilight. ------------------------------------------------------------------------  By six o’clock Michaelis was worn out, and grateful for the sound of a car stopping outside.",
+        "clock_entities": [
+            {
+                "clock_time": "00:00",
+                "text": "the twilight"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1999-03-12T00:00",
+                "text": "the twilight"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2141,
+        "target_sentence": "------------------------------------------------------------------------  By six o’clock Michaelis was worn out, and grateful for the sound of a car stopping outside.",
+        "annotated_sentence": "------------------------------------------------------------------------  By  <timex3 type=\"TIME\" value=\"2013-09-23T06:00\"> six o’clock Michaelis was worn out, and grateful for the sound of a car stopping outside.  \"<timeXX\"> </timeX3> .",
+        "full_context": "But Wilson stood there a long time, his face close to the window pane, nodding into the twilight. ------------------------------------------------------------------------  By six o’clock Michaelis was worn out, and grateful for the sound of a car stopping outside. It was one of the watchers of the night before who had promised to come back, so he cooked breakfast for three, which he and the other man ate together.",
+        "clock_entities": [
+            {
+                "clock_time": "06:00",
+                "text": "six o’clock Michaelis was worn out, and grateful for the sound of a car stopping outside.  \""
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2013-09-23T06:00",
+                "text": "six o’clock Michaelis was worn out, and grateful for the sound of a car stopping outside.  \""
+            }
+        ]
+    },
+    {
+        "sentence_index": 2145,
+        "target_sentence": "He must have been tired and walking slowly, for he didn’t reach Gad’s Hill until noon.",
+        "annotated_sentence": "He must have been tired and walking slowly, for he didn'tt reach Gad’s Hill until  <timex3 type=\"TIME\" value=\"1998-12-23T12:00\"> noon </timeX3> . •  than  \"<timeXX\"> Sept.",
+        "full_context": "His movements—he was on foot all the time—were afterward traced to Port Roosevelt and then to Gad’s Hill, where he bought a sandwich that he didn’t eat, and a cup of coffee. He must have been tired and walking slowly, for he didn’t reach Gad’s Hill until noon. Thus far there was no difficulty in accounting for his time—there were boys who had seen a man “acting sort of crazy,” and motorists at whom he stared oddly from the side of the road.",
+        "clock_entities": [
+            {
+                "clock_time": "12:00",
+                "text": "noon"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "1998-12-23T12:00",
+                "text": "noon"
+            }
+        ]
+    },
+    {
+        "sentence_index": 2330,
+        "target_sentence": "7:15-8:15 ”     Work                                           8:30-4:30 p.m.",
+        "annotated_sentence": " <timex3 type=\"TIME\" value=\"2014-08-20T07:15\"> 7:10 </timeX3> - <TIME'\"  \"<timez0805-05-12T16:30\"> 8:05 </ timex5>  ”  < timez3 types=\"DATE\"value=\"2015-03-23\">8:13 </TIME' </Timex4> )  ",
+        "full_context": "And underneath:      Rise from bed                                  6:00      a.m.     Dumbell exercise and wall-scaling              6:15-6:30 ”     Study electricity, etc. 7:15-8:15 ”     Work                                           8:30-4:30 p.m. Baseball and sports                            4:30-5:00 ”     Practise elocution, poise and how to attain it 5:00-6:00 ”     Study needed inventions                        7:00-9:00 ”                 General Resolves    * No wasting time at Shafters or [a name, indecipherable]    * No more smokeing or chewing.",
+        "clock_entities": [
+            {
+                "clock_time": "07:15",
+                "text": "7:10"
+            }
+        ],
+        "all_timex3_entities": [
+            {
+                "value": "2014-08-20T07:15",
+                "text": "7:10"
+            },
+            {
+                "value": "2015-03-23",
+                "text": "8:13"
+            }
+        ]
+    }
+]
