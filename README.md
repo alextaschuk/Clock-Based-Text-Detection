@@ -13,11 +13,11 @@ This will cover a shortened version of the technical report that I have written.
 
 You can find the models' output for each book in the respective [frankenstein](/frankenstein/), [moby_dick](/moby_dick/), and [the_great_gatsby](/the_great_gatsby/) folders.
 
-This project explores the possibility of using machine learning to detect sentences in literature that explicitly mention the hour and minute of a day that can be found on a clock. I used two fine-tuned models from a paper published in 2021 by Satya Almasian et al. titled _BERT got a Date: Introducing Transformers to Temporal Tagging_.[^1] The paper researchs how two transformer models, BERT and RoBERTa, can be fine-tuned to improve their temporal tagging abilities in text. In total, Almasian et al. fine-tuned five models: two sequence-to-sequence (seq2seq)—one RoBERTa and one BERT—and three token classifiers, all of which are fine-tuned BERT models. All five models tag temporal text using TimeML’s TIMEX3 tag. TimeML is a markup language intended to annotate temporal events in text, and TIMEX3 is a tag used for marking explicit temporal events.
+This project explores the possibility of using machine learning to detect sentences in literature that explicitly mention the hour and minute of a day that can be found on a clock. I used two fine-tuned models from a paper published in 2021 by Satya Almasian et al. titled _BERT got a Date: Introducing Transformers to Temporal Tagging_.[^1] The paper researches how two transformer models, BERT and RoBERTa, can be fine-tuned to improve their temporal tagging abilities in text. In total, Almasian et al. fine-tuned five models: two sequence-to-sequence (seq2seq)—one RoBERTa and one BERT—and three token classifiers, all of which are fine-tuned BERT models. All five models tag temporal text using TimeML’s TIMEX3 tag. TimeML is a markup language intended to annotate temporal events in text, and TIMEX3 is a tag used for marking explicit temporal events.
 
-In 2025, I made a clock that tells the time using quotes from books (you can read more about it [here](https://github.com/alextaschuk/Literary-Quote-Clock)). Nearly every minute of every hour has at least one quote, but most minutes have multiple possible quotes. In these cases, one is chosen at random to be displayed.
+In 2025, I made a clock that tells the time using quotes from books (you can read more about it [here](https://github.com/alextaschuk/Literary-Quote-Clock)). Nearly every minute of every hour has at least one quote, but most minutes have multiple possible quotes; in these cases, one is chosen at random to be displayed.
 
-Adding quotes to the clock for more variety in what is displayed is a tedious process with few solutions. As I read in my free time and come across quotes, I will add them to the long CSV file that is parsed to generate images for each minute of the day, and display them. Another brute-force option is to download as many files of books as I can and manually search them for key words such as “o’clock” or “A.M.” The problem with this solution is that there are several ways in the English language to depict the current time in literature. For example, the reader can be explicitly told with _“Spencer arrived home at twelve o’clock in the morning,”_ or they could be told in a less-explicit manner, such as _“Spencer arrived home at the stroke of midnight.”_ Furthermore, using regex to detect time-based quotes programmatically is not an easy feat due to the inherent difficulty of writing regex and the complex edge cases that would need to be covered. Thus, I turned to ML to see if it could provide a more elegant solution.
+Adding quotes to the clock for more variety in what is displayed is a tedious process with few solutions. As I read in my free time and come across quotes, I will add them to the long CSV file that is parsed to generate images for each minute of the day, and display them. Another brute-force option is to download as many books as I can and manually search them for keywords such as “o’clock” or “A.M.” The problem with this solution is that there are several ways in the English language to depict the current time in literature. For example, the reader can be explicitly told with _“Spencer arrived home at twelve o’clock in the morning,”_ or they could be told in a less-explicit manner, such as _“Spencer arrived home at the stroke of midnight.”_ Furthermore, using regex to detect time-based quotes programmatically is not an easy feat due to the inherent difficulty of writing regex and the complex edge cases that would need to be covered. Thus, I turned to ML to see if it could provide a more elegant solution.
 
 For this project, I experimented with two approaches for clock-sentence detection. Both approaches used the same three books as input: _The Great Gatsby_, by F. Scott Fitzgerald, _Frankenstein; or, The Modern Prometheus_, by Mary Shelley, and _Moby-Dick; or, The Whale, by Herman Melville_.[^2]
 
@@ -62,7 +62,7 @@ For example, this is an object for text from  _The Great Gatsby_:
 },
 ```
 
-The second approach uses roberta2roberta; I wanted to see how it would compare against the Vanilla BERT + GPT-5.4 combination by itself. Even though roberta2roberta was supposed to be a strong model, I suspected that it would perform worse because of the strict filtering that would be required without an LLM. Similar to the first approach, I began be tokenizing the books via NTLK and giving the model the tokens one at a time. The outputted tagged sentences were written to a file as a JSON object with the following keys:
+The second approach uses roberta2roberta; I wanted to see how it would compare against the Vanilla BERT + GPT-5.4 combination by itself. Even though roberta2roberta was supposed to be a strong model, I suspected that it would perform worse because of the strict filtering that would be required without an LLM. Similar to the first approach, I began by tokenizing the books via NTLK and giving the model the tokens one at a time. The outputted tagged sentences were written to a file as a JSON object with the following keys:
 
 - `"sentence_index"`: The sentence’s index in the tokenized sentence list.
 - `"target_sentence"`: The target sentence (the sentence that has been tagged).
@@ -71,7 +71,7 @@ The second approach uses roberta2roberta; I wanted to see how it would compare a
 - ` "clock_entities"`: The TIMEX3 tags that relate to time in the target sentence, and which text was tagged.
 - `"all_timex3_entities"`: All of the TIMEX3 tags in the target sentence, and the text that was tagged.
 
-After a sentence is tagged and a JSON object is created for it, regex is used to check if `target_sentence` has an opening tag in the form of `(T HH:MM)`. This severely limits the number of clock quotes that are returned by roberta2roberta, but that is an inherent consequence of the approach not using a large language model like GPT-5.4 mini to filter out results instead. 
+After a sentence is tagged and a JSON object is created for it, regex is used to check if `target_sentence` has an opening tag in the form of `(T HH:MM)`. This severely limits the number of clock quotes that are returned by roberta2roberta, but that is an inherent consequence of the approach not using an LLM like GPT-5.4 mini to filter out results instead. 
 
 For example, this is a valid object from _Moby Dick_:
 
@@ -134,7 +134,7 @@ Each approach lives in its own Jupyter Notebook:
 - The Vanilla BERT + GPT approach can be ran from [bert-gpt.ipynb](/vanilla-bert-gpt.ipynb)
 - The roberta2roberta approach can be ran from [roberta.ipynb](/roberta.ipynb)
 
-The first two steps for both approaches is the same:
+The first two steps for both approaches are the same:
 1. Clone the repository locally.
 2. In the `Imports & Config` cell, modify `BOOK_FILE` to store the filepath to the book you want to get clock quotes from.
 
