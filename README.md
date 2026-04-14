@@ -155,4 +155,4 @@ The first two steps for both approaches is the same:
 
 [^1]: The repository for Almasian et al's paper can be found [here](https://github.com/satya77/Transformer_Temporal_Tagger).
 
-[^2]: You can find the downloads for _The Great Gatsby_ [here](https://www.gutenberg.org/ebooks/64317), _Frankenstein_ [here](https://www.gutenberg.org/ebooks/84), and _Moby Dick_ [here](https://www.gutenberg.org/ebooks/2701).
+[^2]: You can download _The Great Gatsby_ from Project Gutenberg [here](https://www.gutenberg.org/ebooks/64317), _Frankenstein_ [here](https://www.gutenberg.org/ebooks/84), and _Moby Dick_ [here](https://www.gutenberg.org/ebooks/2701).
